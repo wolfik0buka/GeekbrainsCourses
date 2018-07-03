@@ -11,6 +11,10 @@ body {
 
 .menu {
 	list-style-type: none;
+	
+}
+
+.menu a{
 	color: #408140;
 	font-size: 20px;
 	font-style: italic;
