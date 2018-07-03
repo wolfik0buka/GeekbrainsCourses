@@ -1,0 +1,107 @@
+body {
+	background: #f8fff8;
+}
+
+.menu a{
+	color: #408140;
+	font-size: 20px;
+	font-style: italic;
+	text-decoration: none;
+
+}
+
+.otherItems a, .catalog a{
+	color: darkgreen;
+	font-style: italic;
+	text-decoration: none;
+}
+
+.menu {
+	list-style-type: none;
+}
+
+.items h3{
+	color: black;
+	font-size: 18px;
+	font-weight: 400;
+	background: #eaeaea;
+}
+
+.shortDescription {
+	color: #707070;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 16px;
+}
+
+.longDescription {
+	color: #484343;
+	font-size: 16px;
+	font-kerning: 400;
+	line-height: 24px;
+	text-align: left;
+}
+
+.characteristic > li{
+	color: #003333;
+	font-size: 20px;
+}
+
+.characteristic ul{
+	list-style-type: square;
+}
+
+.characteristic ul li {
+	color: black;
+	font-size: 16px;
+}
+
+.items img{
+	outline: 2px solid lightgrey;
+}
+
+.feedback input[type="text"]{
+	width: 200px;
+	height:20px;
+	text-align: center;
+	color: grey;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+
+.feedback textarea{
+	width:425px;
+	height:100px;
+	font-size: 14px;
+}
+
+iframe{
+	border: 2px solid grey;
+}
+
+#Naming {
+	color: #A15151;
+	text-align: center;
+	font-style: italic;
+	font-size: 50px;
+}
+hr {
+	color: #A15151;
+
+}
+
+/*.catalog img{
+	border:2px solid #C6C6C6;
+}*/
+
+.catalog .item {
+	width: 150px;
+	text-align: center;
+	background: white;
+	border: 1px solid #c6c6c6;
+}
+
+h1 {
+	font-size: 40px;
+	color: #333;
+}
