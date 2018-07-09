@@ -2,11 +2,8 @@ body {
 	background: #f8f8f8;
 }
 
-
-.otherItems a, .catalog a{
-	color: darkgreen;
-	font-style: italic;
-	text-decoration: none;
+.header img{
+	width: 150px;
 }
 
 .menu {
@@ -20,6 +17,17 @@ body {
 	font-style: italic;
 	text-decoration: none;
 }
+
+.menu a:hover{
+	color: #A15151;
+}
+
+.otherItems a, .catalog a{
+	color: darkgreen;
+	font-style: italic;
+	text-decoration: none;
+}
+
 
 .items h3{
 	color: black;
