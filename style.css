@@ -1,4 +1,4 @@
-@media screen and (min-width: 1000px) {/* если окно браузера больше максимальной ширины сайта */
+
 html {
 	margin-left: calc(100vw - 100%);
 	margin-right: 0;
@@ -38,6 +38,7 @@ hr {
 }
 .header a.logo{
 	display: inline-block;
+	width: 150px;
 	margin-top: 25px;
 	margin-left: 50px;
 }
